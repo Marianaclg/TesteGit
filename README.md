@@ -1,2 +1,2 @@
 # TesteGit
-repositório para eu poder aprender Git e GitHub
+repositório aprender Git e GitHub
